@@ -1,0 +1,37 @@
+javascript basics which is required for learn react js ....
+
+1.TO  createlement by javascript we use = document.createlement('...') 
+2.To write anything inside tag we use = tag.innerHTML='...'
+3.To see any element in screen/ui then  use =  document.body.appendchid(..)
+
+
+React JS se Element making...
+1.React js is a library used for implementing a particular feature like..react js used for show thing on UI/screen
+2. framework means all things are inbuilt means we not change  more  changes 
+
+# Import or Export....
+1.import or export = used for work in mutiple file 
+2.In this script type = module
+
+# Real Dom and Virtual Dom....
+Real dom = when we update Any meessage then it reload the whole page so full page re render  hoga ..... 
+virtual dom = it made copy of real dom and compare copy with real dom if any changes then apply them in same page without reload page......
+jsx = is combination of html and javascript,it can make easy to create element of html as compare to javascript code
+
+To create element by javascript...
+var h1=document.queryselector('h1')
+
+To create element by Jsx.....
+var h1 = <h1>hello</h1>
+
+# create folder in react js....
+give command= npm create vite
+vite= it is tool that  made  folder for javascript,valina js,react ,preact
+node module= to help in run server
+to run file in folder give command = npm run dev
+
+# to create function in ract we write rafce
+full form of rafce react arrow function export component
+ 
+ # fragment tag = <> </>
+ to use multiple div in one return we use fragment div
